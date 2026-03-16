@@ -12,7 +12,7 @@ Turn your Strava and Garmin activities into GitHub-style contribution graphs. Au
 
 **No coding required.**  
 
-View the Interactive [Activity Dashboard](http://adamspain.com/git-sweaty/).  
+View the Interactive [Activity Dashboard](https://nibton.github.io/workout/).  
 Once setup is complete, this dashboard link will automatically update to your own GitHub Pages URL.
 
 
