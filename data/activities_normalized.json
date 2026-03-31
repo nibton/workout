@@ -5419,5 +5419,18 @@
     "start_date_local": "2026-03-29T20:45:19Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-03-31",
+    "distance": 10111.2,
+    "elevation_gain": 90.3,
+    "id": "17925531672",
+    "moving_time": 3492.0,
+    "name": "Nick Drake and Jeff Buckley Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-03-31T18:58:17Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
