@@ -5458,5 +5458,31 @@
     "start_date_local": "2026-04-02T19:23:47Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-04-04",
+    "distance": 1606.6,
+    "elevation_gain": 13.0,
+    "id": "17974743904",
+    "moving_time": 1203.0,
+    "name": "Evening Walk",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-04-04T18:20:09Z",
+    "type": "Walk",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-04",
+    "distance": 7036.4,
+    "elevation_gain": 64.0,
+    "id": "17975473462",
+    "moving_time": 3056.0,
+    "name": "Testing football injuries",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-04-04T18:41:48Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
