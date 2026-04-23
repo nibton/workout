@@ -3037,6 +3037,13 @@
       "subtype": "Walk",
       "type": "Walk",
       "year": 2026
+    },
+    {
+      "date": "2026-04-23",
+      "hour": 19,
+      "subtype": "Walk",
+      "type": "Walk",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -6665,6 +6672,15 @@
           "distance": 7545.2,
           "elevation_gain": 108.2,
           "moving_time": 5798.0
+        },
+        "2026-04-23": {
+          "activity_ids": [
+            "18227136422"
+          ],
+          "count": 1,
+          "distance": 6099.0,
+          "elevation_gain": 54.0,
+          "moving_time": 4468.0
         }
       },
       "Workout": {
@@ -6725,7 +6741,7 @@
       }
     }
   },
-  "generated_at": "2026-04-22T16:03:52.454735+00:00",
+  "generated_at": "2026-04-23T16:25:28.985443+00:00",
   "other_bucket": "OtherSports",
   "repo": "nibton/workout",
   "source": "strava",
