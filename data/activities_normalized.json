@@ -5783,5 +5783,18 @@
     "start_date_local": "2026-05-06T18:41:18Z",
     "type": "Walk",
     "year": 2026
+  },
+  {
+    "date": "2026-05-07",
+    "distance": 6216.2,
+    "elevation_gain": 53.6,
+    "id": "18412514269",
+    "moving_time": 1830.0,
+    "name": "Lorde's Melodrama Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-05-07T18:48:01Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
