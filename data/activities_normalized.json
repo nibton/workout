@@ -5978,5 +5978,18 @@
     "start_date_local": "2026-05-15T20:17:03Z",
     "type": "Walk",
     "year": 2026
+  },
+  {
+    "date": "2026-05-16",
+    "distance": 10045.4,
+    "elevation_gain": 83.8,
+    "id": "18530529302",
+    "moving_time": 3142.0,
+    "name": "ASAP's Don't Be Dumb Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-05-16T19:10:15Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
