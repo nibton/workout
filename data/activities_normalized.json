@@ -6082,5 +6082,31 @@
     "start_date_local": "2026-05-29T19:18:12Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-05-31",
+    "distance": 22702.7,
+    "elevation_gain": 63.5,
+    "id": "18722686718",
+    "moving_time": 7183.0,
+    "name": "Three Park Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-05-31T05:32:02Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-31",
+    "distance": 1401.1,
+    "elevation_gain": 3.3,
+    "id": "18722916702",
+    "moving_time": 994.0,
+    "name": "Morning Walk",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-05-31T07:59:52Z",
+    "type": "Walk",
+    "year": 2026
   }
 ]
