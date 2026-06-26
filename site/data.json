@@ -3380,6 +3380,20 @@
       "subtype": "Walk",
       "type": "Walk",
       "year": 2026
+    },
+    {
+      "date": "2026-06-26",
+      "hour": 18,
+      "subtype": "Run",
+      "type": "Run",
+      "year": 2026
+    },
+    {
+      "date": "2026-06-26",
+      "hour": 19,
+      "subtype": "Walk",
+      "type": "Walk",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -7094,6 +7108,15 @@
           "distance": 5154.5,
           "elevation_gain": 13.6,
           "moving_time": 2013.0
+        },
+        "2026-06-26": {
+          "activity_ids": [
+            "19074069912"
+          ],
+          "count": 1,
+          "distance": 6049.7,
+          "elevation_gain": 14.7,
+          "moving_time": 2036.0
         }
       },
       "Walk": {
@@ -7374,6 +7397,15 @@
           "distance": 1014.6,
           "elevation_gain": 3.1,
           "moving_time": 691.0
+        },
+        "2026-06-26": {
+          "activity_ids": [
+            "19074385378"
+          ],
+          "count": 1,
+          "distance": 2708.0,
+          "elevation_gain": 7.2,
+          "moving_time": 1606.0
         }
       },
       "Workout": {
@@ -7461,7 +7493,7 @@
       }
     }
   },
-  "generated_at": "2026-06-25T17:04:00.960321+00:00",
+  "generated_at": "2026-06-26T16:55:48.679995+00:00",
   "other_bucket": "OtherSports",
   "repo": "nibton/workout",
   "source": "strava",
